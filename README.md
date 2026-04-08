@@ -1,5 +1,9 @@
 # Machine-Learning-INT3405-24022253-Lê Vân Anh
 ---
+## Assignment 4 - Naive Bayes Classifier
+* **3 bài tập luyện tập triển khai Naive Bayes Classifier và XSTK**
+    * [Bài tập thực hành](https://www.notion.so/ML-Assignment-4-336001c683f1809a8a2bfdb778594908?source=copy_link)
+---
 ## Assignment 1 - Linear Regression & Logistic Regression
 
 ### I. Đọc hiểu và implement theo 2 phần:
