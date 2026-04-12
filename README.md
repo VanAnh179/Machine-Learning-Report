@@ -1,4 +1,4 @@
-# Machine-Learning-INT3405-24022253-Lê Vân Anh
+# Machine Learning
 ---
 ## Assignment 4 - Naive Bayes Classifier
 * **3 bài tập luyện tập triển khai Naive Bayes Classifier và XSTK**
