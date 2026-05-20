@@ -1,5 +1,9 @@
 # Machine Learning
 ---
+## Assignment 11 - CNN & RNN/Bidirectional LSTM
+* **Code được triển khai trong folder Week11**
+    * [Câu trả lời cho bài tự luận](https://www.notion.so/ML-Assignment-Week-11-366a67d3f0fd801bb365f30f6cc3f71a?source=copy_link)
+---
 ## Assignment 4 - Naive Bayes Classifier
 * **3 bài tập luyện tập triển khai Naive Bayes Classifier và XSTK**
     * [Bài tập thực hành](https://www.notion.so/ML-Assignment-4-336001c683f1809a8a2bfdb778594908?source=copy_link)
