@@ -1,5 +1,9 @@
 # Machine Learning
 ---
+## Assignment 12
+* **Code được triển khai trong folder Week12**
+    * [Báo cáo cho cả 3 bài lab](https://www.notion.so/Assignment-Week-12-36da67d3f0fd8098853ddee5d28a85fe?source=copy_link)
+---
 ## Assignment 11 - CNN & RNN/Bidirectional LSTM
 * **Code được triển khai trong folder Week11**
     * [Câu trả lời cho bài tự luận](https://www.notion.so/ML-Assignment-Week-11-366a67d3f0fd801bb365f30f6cc3f71a?source=copy_link)
